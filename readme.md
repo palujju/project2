@@ -1,3 +1,3 @@
 # new
 
-this is use for init command and add new repo to the github
+this is use for init command and add new repo to the github.....
